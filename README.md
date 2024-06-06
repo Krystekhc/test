@@ -1,1 +1,2 @@
 # test
+# Testuje czy dziala
